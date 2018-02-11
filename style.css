@@ -1,0 +1,20 @@
+body {
+	margin: 0;
+	background-color: #313234;
+}
+ul {
+	width: 2000px;
+	padding: 0px;
+	margin: 0px;
+}
+#carousel {
+	margin: 0 auto;
+	text-align: center;
+	width: 400px;
+	overflow: hidden;
+}
+li {
+	list-style-type: none;
+	float: left;
+	width: 400px;
+}
