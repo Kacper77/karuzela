@@ -12,6 +12,3 @@ function moveFirstSlide(){
 	carouselList.css({marginLeft:0});
 }
 });
-
-
-
